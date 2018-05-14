@@ -62,36 +62,58 @@
 * Şirket: Nadim Kobeissi
 
 ## iMessage
+* Bilgilerinizi paylaşıyor
+* Şirket: Apple Inc.
 
 ## Psi+
+* Açık Kaynak Kodlu
 
 ## Riot
+* Açık Kaynak Kodlu
 
 ## Telegram
+* Takip edilebiliyor (Bkz: wikileaks.org)
+* Açık Kaynak Kodlu
+* Almanya'da kurulmuş, ancak Rus menşeilidir
+* Şirket: Telegram Messenger LLP
 
 ## Tox
+* Açık Kaynak Kodlu
 
 ## Viber Messenger
+* Bilgilerinizi paylaşıyor
+* 2014 yılında Japon firması Rakuten tarafından satın alındı
+* Şirket: Viber Media
 
 ## Facebook Messenger
+* Bilgilerinizi paylaşıyor
 
 ## Google Hangouts
+* Bilgilerinizi paylaşıyor
 
 ## ICQ
+* Bilgilerinizi paylaşıyor
 
 ## Kik Messenger
+* Bilgilerinizi paylaşıyor
 
 ## LINE
+* Bilgilerinizi paylaşıyor
 
 ## Tencent QQ
+* Bilgilerinizi paylaşıyor
 
 ## WeChat
+* Bilgilerinizi paylaşıyor
 
 ## AOL Instant Messenger
+* Bilgilerinizi paylaşıyor
 
 ## Google Allo
+* Bilgilerinizi paylaşıyor
 
 ## Skype
+* Bilgilerinizi paylaşıyor
 
 ## Trillian
 * Bilgilerinizi paylaşıyor
