@@ -2,7 +2,7 @@
 
 | Yazılım | Menşei | Güvenlik | Kullanışlılık | Detaylar | Puan |
 | - | - | - | - | - | - |
-| [Threema](Threema) | İsviçre | 7 | 6 | - | 13 |
+| [Threema](##Threema) | İsviçre | 7 | 6 | - | 13 |
 
 ## Threema
 
