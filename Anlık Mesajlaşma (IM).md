@@ -2,17 +2,17 @@
 
 | Yazılım | Menşei | Güvenlik | Kullanışlılık | Detaylar | Puan |
 | - | - | - | - | - | - |
-| [Threema](#Threema) | İsviçre | 7 | 6 | - | 13 |
-| [Kontalk](#Kontalk) | - | 7 | 5 | - | 12 |
-| [Signal](#Signal) | Amerika | 7 | 5 | - | 12 |
-| [Silent Circle](#Silent Circle) | İsviçre | 7 | 5 | - | 12 |
-| [WhatsApp](#WhatsApp) | Amerika | 5 | 7 | - | 12 |
-| [Wire](#Wire) | İsviçre | 7 | 5 | - | 12 |
-| [ChatSecure](#ChatSecure) | - | 7 | 4 | - | 11 |
-| [Conversations](#Conversations) | Almanya | 7 | 4 | - | 11 |
-| [Pidgin](#Pidgin) | - | 7 | 4 | - | 11 |
-| [Wickr](#Wickr) | Amerika | 5 | 6 | - | 11 |
-| [Xabber](#Xabber) | Amerika | 7 | 4 | - | 11 |
+| [Threema](#threema) | İsviçre | 7 | 6 | - | 13 |
+| [Kontalk](#kontalk) | - | 7 | 5 | - | 12 |
+| [Signal](#signal) | Amerika | 7 | 5 | - | 12 |
+| [Silent Circle](#silent-circle) | İsviçre | 7 | 5 | - | 12 |
+| [WhatsApp](#whatsapp) | Amerika | 5 | 7 | - | 12 |
+| [Wire](#wire) | İsviçre | 7 | 5 | - | 12 |
+| [ChatSecure](#chatsecure) | - | 7 | 4 | - | 11 |
+| [Conversations](#conversations) | Almanya | 7 | 4 | - | 11 |
+| [Pidgin](#pidgin) | - | 7 | 4 | - | 11 |
+| [Wickr](#wickr) | Amerika | 5 | 6 | - | 11 |
+| [Xabber](#xabber) | Amerika | 7 | 4 | - | 11 |
 
 ## Threema
 
