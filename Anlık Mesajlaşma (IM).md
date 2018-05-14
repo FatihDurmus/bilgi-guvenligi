@@ -15,46 +15,38 @@
 | [Xabber](#xabber) | Amerika | 7 | 4 | - | 11 |
 
 ## Threema
-
 * Kısmen Açık Kaynak Kodlu
 * Şirket: Threema GmbH
 * Ücretli
 
 ## Kontalk
-
 * Açık Kaynak Kodlu
 
 ## Signal
-
 * Açık Kaynak Kodlu
 
 ## Silent Circle
-
 * Açık Kaynak Kodlu
 
 ## WhatsApp
-
 * Bilgilerinizi paylaşıyor
 * Şirket: Facebook
 
 ## Wire
-
 * Açık Kaynak Kodlu
 
 ## ChatSecure
-
 * Açık Kaynak Kodlu
 
 ## Conversations
-
 * Açık Kaynak Kodlu
 
 ## Pidgin
-
 * Açık Kaynak Kodlu
 
 ## Wickr
+* Şirket: Wickr Inc.
+* Yatırımcılarından biri CIA'nın yatırım kolu olan In-Q-Tel'dır
 
 ## Xabber
-
 * Açık Kaynak Kodlu
