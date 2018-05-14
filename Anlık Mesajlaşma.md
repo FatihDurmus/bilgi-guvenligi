@@ -114,6 +114,7 @@
 
 ## Skype
 * Bilgilerinizi paylaşıyor
+* Şirket: Microsoft Corporation
 
 ## Trillian
 * Bilgilerinizi paylaşıyor
