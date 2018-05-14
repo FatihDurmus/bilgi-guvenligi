@@ -16,14 +16,16 @@
 
 ## Threema
 * Kısmen Açık Kaynak Kodlu
-* Şirket: Threema GmbH
 * Ücretli
+* Şirket: Threema GmbH
 
 ## Kontalk
 * Açık Kaynak Kodlu
 
 ## Signal
+* Takip edilebiliyor (Bkz: wikileaks.org)
 * Açık Kaynak Kodlu
+* Şirket: Open Whisper Systems
 
 ## Silent Circle
 * Açık Kaynak Kodlu
@@ -45,8 +47,52 @@
 * Açık Kaynak Kodlu
 
 ## Wickr
-* Şirket: Wickr Inc.
 * Yatırımcılarından biri CIA'nın yatırım kolu olan In-Q-Tel'dır
+* Şirket: Wickr Inc.
 
 ## Xabber
 * Açık Kaynak Kodlu
+
+## Apple Messages
+* Bilgilerinizi paylaşıyor
+* Şirket: Apple Inc.
+
+## Cryptocat
+* Açık Kaynak Kodlu
+* Şirket: Nadim Kobeissi
+
+## iMessage
+
+## Psi+
+
+## Riot
+
+## Telegram
+
+## Tox
+
+## Viber Messenger
+
+## Facebook Messenger
+
+## Google Hangouts
+
+## ICQ
+
+## Kik Messenger
+
+## LINE
+
+## Tencent QQ
+
+## WeChat
+
+## AOL Instant Messenger
+
+## Google Allo
+
+## Skype
+
+## Trillian
+* Bilgilerinizi paylaşıyor
+* Şirket: Cerulean Studios
